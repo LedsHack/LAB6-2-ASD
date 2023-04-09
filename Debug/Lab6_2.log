@@ -1,0 +1,4 @@
+﻿  data.cpp
+C:\Users\LedsHack\source\repos\Lab6_2\main.h(16,2): warning C4091: typedef : пропускается слева от "info", когда ни одна переменная не объявлена
+C:\Users\LedsHack\source\repos\Lab6_2\data.h(4,19): warning C4091: extern : пропускается слева от "info", когда ни одна переменная не объявлена
+  Lab6_2.vcxproj -> C:\Users\LedsHack\source\repos\Lab6_2\Debug\Lab6_2.exe
